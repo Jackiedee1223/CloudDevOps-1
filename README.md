@@ -28,8 +28,7 @@ Users will access our website by using a URL and that URL we be pointing are tol
 7.	Download artifact to Tomcat EC2 instance
 8.	Setup ELB with HTTPS, certificate from ACM
 9.	Map ELB endpoint to website name in GoDaddy DNS
-10.	Verify setup
-11.	Build ASG for Tomcat instances
+10.	Build ASG for Tomcat instances.
 
 <h2>Validation & Summarization</h2>
 <h4>Security Group & Key Pairs</h4>
@@ -37,3 +36,19 @@ Users will access our website by using a URL and that URL we be pointing are tol
 <h4>Build and Deploy Artifacts</h4>
 <h4>Load Balancer & DNS</h4>
 <h4>Auto Scaling Group</h4>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2>Reference</h2>
+<p>Learning from <b>GURUTECH NETWORKS</b> </p>
+
