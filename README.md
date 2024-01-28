@@ -19,25 +19,25 @@ Users will access our website by using a URL and that URL we be pointing are tol
 
 <h2>Flow of Execution</h2>
 
-1.	Create Security groups
+<b>1.	Create Security groups</b>
  <p><img src="https://github.com/Jackiedee1223/CloudDevOps-1/blob/main/images/SGs.png"></p>
-2.	Create Key pairs
+<b>2.	Create Key pairs</b>
  <p><img src="https://github.com/Jackiedee1223/CloudDevOps-1/blob/main/images/Kps.png">
-3.	Launch instances with user data
+<b>3.	Launch instances with user data</b>
  <p></p>
-4.	Update IP address to name mapping in Route 
+<b>4.	Update IP address to name mapping in Route </b>
  <p></p>
-5.	Build application from source code
+<b>5.	Build application from source code</b>
  <p></p>
-6.	Upload to S3 bucket
+<b>6.	Upload to S3 bucket</b>
  <p></p>
-7.	Download artifact to Tomcat EC2 instance
+<b>7.	Download artifact to Tomcat EC2 instance</b>
  <p></p>
-8.	Setup ELB with HTTPS, certificate from ACM
+<b>8.	Setup ELB with HTTPS, certificate from ACM</b>
  <p></p>
-9.	Map ELB endpoint to website name in GoDaddy DNS
+<b>9.	Map ELB endpoint to website name in GoDaddy DNS</b>
  <p></p>
-10.	Build ASG for Tomcat instances.
+<b>10.	Build ASG for Tomcat instances.</b>
  <p></p>
 
 
