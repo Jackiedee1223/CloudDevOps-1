@@ -35,7 +35,7 @@ Users will access our website by using a URL and that URL we be pointing are tol
   <img src="https://github.com/Jackiedee1223/CloudDevOps-1/blob/main/images/S3.png">
  </p>
 <b>7.	Download artifact to Tomcat EC2 instance</b>
-  <p><img src="https://github.com/Jackiedee1223/CloudDevOps-1/blob/main/images/Artifact.png"></p>
+  <p><img src="https://github.com/Jackiedee1223/CloudDevOps-1/blob/main/images/Tomcat.png"></p>
 <b>8.	Setup ELB with HTTPS, certificate from ACM</b>
  <p></p>
 <b>9.	Map ELB endpoint to website name in GoDaddy DNS</b>
