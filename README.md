@@ -20,7 +20,9 @@ Users will access our website by using a URL and that URL we be pointing are tol
 <h2>Flow of Execution</h2>
 
 1.	Create Security groups
+<img src="https://github.com/Jackiedee1223/CloudDevOps-1/blob/main/images/SGs.png">
 2.	Create Key pairs
+<img src="https://github.com/Jackiedee1223/CloudDevOps-1/blob/main/images/Kps.png">
 3.	Launch instances with user data
 4.	Update IP address to name mapping in Route 53
 5.	Build application from source code
