@@ -45,7 +45,7 @@ Users will access our website by using a URL and that URL we be pointing are tol
     <img src="https://github.com/Jackiedee1223/CloudDevOps-1/blob/main/images/Website.png">
   </p>
 <b>10.	Build ASG for Tomcat instances.</b>
- <p></p>
+ <p><img src="https://github.com/Jackiedee1223/CloudDevOps-1/blob/main/images/ASGs.png"></p>
 
 
 
