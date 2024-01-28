@@ -22,11 +22,11 @@ Users will access our website by using a URL and that URL we be pointing are tol
 <b>1.	Create Security groups</b>
  <p><img src="https://github.com/Jackiedee1223/CloudDevOps-1/blob/main/images/SGs.png"></p>
 <b>2.	Create Key pairs</b>
- <p><img src="https://github.com/Jackiedee1223/CloudDevOps-1/blob/main/images/Kps.png">
+ <p><img src="https://github.com/Jackiedee1223/CloudDevOps-1/blob/main/images/Kps.png"></p>
 <b>3.	Launch instances with user data</b>
- <p></p>
+ <p><img src="https://github.com/Jackiedee1223/CloudDevOps-1/blob/main/images/Instances.png"></p>
 <b>4.	Update IP address to name mapping in Route </b>
- <p></p>
+ <p><img src="https://github.com/Jackiedee1223/CloudDevOps-1/blob/main/images/Route53.png"></p>
 <b>5.	Build application from source code</b>
  <p></p>
 <b>6.	Upload to S3 bucket</b>
