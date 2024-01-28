@@ -28,9 +28,12 @@ Users will access our website by using a URL and that URL we be pointing are tol
 <b>4.	Update IP address to name mapping in Route </b>
  <p><img src="https://github.com/Jackiedee1223/CloudDevOps-1/blob/main/images/Route53.png"></p>
 <b>5.	Build application from source code</b>
- <p></p>
+ <p><img src="https://github.com/Jackiedee1223/CloudDevOps-1/blob/main/images/VScode.png"></p>
 <b>6.	Upload to S3 bucket</b>
- <p></p>
+ <p>
+  <img src="https://github.com/Jackiedee1223/CloudDevOps-1/blob/main/images/IAM.png">
+  <img src="https://github.com/Jackiedee1223/CloudDevOps-1/blob/main/images/S3.png">
+ </p>
 <b>7.	Download artifact to Tomcat EC2 instance</b>
  <p></p>
 <b>8.	Setup ELB with HTTPS, certificate from ACM</b>
