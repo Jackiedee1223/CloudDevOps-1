@@ -1,4 +1,4 @@
-![image](https://github.com/Jackiedee1223/CloudDevOps-1/assets/138213373/c003ab44-fa04-4911-ae1b-a7130c3e0346)# Lift & Shift Web Application on AWS Cloud
+# Lift & Shift Web Application on AWS Cloud
 <h2>Scenario</h2>
 <p>
 The project is lift and shift application workload and we’re going to lift our application, the VPROFILE and shift it on AWS cloud. In this project, we are hosting and running it on AWS cloud for production and use a lift and shift strategy. 
